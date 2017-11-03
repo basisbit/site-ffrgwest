@@ -36,8 +36,7 @@ GLUON_FEATURES := \
 # Additional packages to install on every image
 GLUON_SITE_PACKAGES := \
 	iwinfo \
-	haveged \
-	respondd-module-airtime
+	haveged
 
 ############################
 # Additional package sets
